@@ -3,3 +3,5 @@ git tutorial test 1
 smaple text
 
 add from tuto2 
+
+pull : getting remote repository content
