@@ -3,3 +3,5 @@ git tutorial test 1
 smaple text
 
 add from tuto2 
+
+commit : write index status from tuto1 
